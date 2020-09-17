@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'am TheGreyDiamond, a german student!👨‍💻 I love coding in Python. Consider to visit me on..  
+I'm TheGreyDiamond, a german student!👨‍💻 I love coding in Python. Consider to visit me on..  
 - ⚡ .. my Website: TheGreydiamond.de
 - 💬 .. my Twitter : @TheGreydiamond2  (I you need to reach out to me, this is a good place!)
 - 😄 .. my Discordserver: https://discord.gg/zWHaAtJ (But why a server? My tag changes very often, so a server is way easier. You can reach me here too!)
