@@ -11,7 +11,7 @@ I'm intersted in anything techy! Here a short list of stuff I tried:
 - grandMA onPC (Love it, but a bit expensiv and hard to learn)
 - Blender (Amazing software, I like it)
 - Unity (Well...)
-- Arduinos and ESP8266 (Still doing it, quite cool)
+- Arduinos and ESP8266/ESP32 (Still doing it, quite cool)
 - I really love event lighting (for stages)
 
 This list would go on for ever, so....
