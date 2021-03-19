@@ -6,6 +6,8 @@ I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. 
 - ☄️ .. my twitch channel: https://twitch.tv/greydiamond (sometimes german, sometimes english)
 - 🛸 .. my YouTube channel: https://www.youtube.com/channel/UC7zasBuVtQMNPkFgt9eYu6g (only german at the moment)
 
+BTW I work at Wavelens (wavelens.io)! Check us out!
+
 I'm intersted in anything techy! Here a short list of stuff I tried:
 - Terragen (Love it but a lot to learn)
 - grandMA onPC (Love it, but a bit expensiv and hard to learn)
