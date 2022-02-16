@@ -6,6 +6,8 @@ I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. 
 - ☄️ .. my twitch channel: https://twitch.tv/greydiamond (sometimes german, sometimes english)
 - 🛸 .. my YouTube channel: https://www.youtube.com/channel/UC7zasBuVtQMNPkFgt9eYu6g (only german at the moment)
 
+<a href="https://matrix.to/#/#public:matrix.thegreydiamond.de"><img src="https://img.shields.io/badge/chat-on matrix-blueviolet?style=for-the-badge" alt="Matrix"></a>
+
 BTW I work at Wavelens (https://wavelens.io)! Check us out!
 
 I'm intersted in anything techy! Here a short list of stuff I tried:
