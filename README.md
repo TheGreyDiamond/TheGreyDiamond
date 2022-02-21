@@ -8,8 +8,6 @@ I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. 
 
 <a href="https://matrix.to/#/#public:matrix.thegreydiamond.de"><img src="https://img.shields.io/badge/chat-on matrix-blueviolet?style=for-the-badge" alt="Matrix"></a>
 
-BTW I work at Wavelens (https://wavelens.io)! Check us out!
-
 I'm intersted in anything techy! Here a short list of stuff I tried:
 - Terragen (Love it but a lot to learn)
 - grandMA onPC (Love it, but a bit expensiv and hard to learn)
