@@ -22,6 +22,8 @@ Maybe checkout [Project-Name-Here](https://www.project-name-here.de)
 
 Don't worry and be happy! ✨
 
+#istandwithukraine 🇺🇦
+
 ![TheGreydiamond's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreydiamond&count_private=true&show_icons=true&theme=gruvbox)
 
 <!--
