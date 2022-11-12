@@ -8,11 +8,10 @@ I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. 
 
 <a href="https://matrix.to/#/#public:matrix.thegreydiamond.de"><img src="https://img.shields.io/badge/chat-on matrix-blueviolet?style=for-the-badge" alt="Matrix"></a>
 
-I'm intersted in anything techy! Here a short list of stuff I tried:
+I'm intersted in anything techy! Here a short list of stuff I work with:
 - Terragen (Love it but a lot to learn)
 - grandMA onPC (Love it, but a bit expensiv and hard to learn)
 - Blender (Amazing software, I like it)
-- Unity (Well...)
 - Arduinos and ESP8266/ESP32 (Still doing it, quite cool)
 - I really love event lighting (for stages)
 
