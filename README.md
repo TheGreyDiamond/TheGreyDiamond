@@ -2,7 +2,7 @@
 I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. Consider to visit me on..  
 - ⚡ .. my Website: [TheGreydiamond.de](https://www.thegreydiamond.de)
 - 💬 .. my Twitter : @TheGreydiamond2  (If you need to reach out to me, this is a good place!)
-- 😄 .. my Discordserver: https://discord.gg/zWHaAtJ (But why a server? My tag changes sometimes, so a server is way easier. You can reach me here too!)
+- 😄 .. my Discordserver: https://discord.gg/zWHaAtJ
 - ☄️ .. my twitch channel: https://twitch.tv/greydiamond (sometimes german, sometimes english)
 - 🛸 .. my YouTube channel: https://www.youtube.com/channel/UC7zasBuVtQMNPkFgt9eYu6g (only german at the moment)
 
