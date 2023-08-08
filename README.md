@@ -7,6 +7,7 @@ I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. 
 - 🛸 .. my YouTube channel: https://www.youtube.com/channel/UC7zasBuVtQMNPkFgt9eYu6g (only german at the moment)
 
 <a href="https://matrix.to/#/#public:matrix.thegreydiamond.de"><img src="https://img.shields.io/badge/chat-on matrix-blueviolet?style=for-the-badge" alt="Matrix"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5O05AX)
 
 I'm intersted in anything techy! Here a short list of stuff I work with:
 - Terragen (Love it but a lot to learn)
