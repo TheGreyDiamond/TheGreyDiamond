@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. Consider to visit me on..  
 - ⚡ .. my Website: [TheGreydiamond.de](https://www.thegreydiamond.de)
-- 💬 .. my Twitter : [@TheGreydiamond2](https://twitter.com/TheGreyDiamond2)  (If you need to reach out to me, this is a good place!)
+- 💬 .. my own Gitea-Instance : [git.thegreydiamond.de](https://git.thegreydiamond.de)  (Most of my code lives here..)
 - 😄 .. my Discordserver: https://discord.gg/zWHaAtJ
 - ☄️ .. my twitch channel: https://twitch.tv/greydiamond (sometimes german, sometimes english)
 - 🛸 .. my YouTube channel: https://www.youtube.com/channel/UC7zasBuVtQMNPkFgt9eYu6g (only german at the moment)
@@ -10,7 +10,7 @@ I'm TheGreyDiamond, a student from Germany!👨‍💻 I love coding in Python. 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5O05AX)
 
 I'm intersted in anything techy! Here a short list of stuff I work with:
-- Terragen (Love it but a lot to learn)
+- Affinity Photo
 - grandMA onPC (Love it, but a bit expensiv and hard to learn)
 - Blender (Amazing software, I like it)
 - Arduinos and ESP8266/ESP32 (Still doing it, quite cool)
